@@ -1,4 +1,4 @@
 # Final-Year-Project
 Project Title: Crypto Pharmacy- Blockchain Based Pharmacy Supply Chain
 
-Description: To enhance the approach of traditional supply chain management using blockchain to ensure source to customer traceability and tracking which solves the threat of counterfeit medicines and improves customer service.
+Description: Cryptopharmacy, also known as crypto-pharmacy or online pharmacy using cryptocurrencies, refers to the practice of purchasing medications and healthcare products through online platforms using digital currencies like Bitcoin, Ether, or other cryptocurrencies. It combines the convenience of online shopping with the use of decentralized digital currencies for transactions. 
